@@ -16,7 +16,7 @@
 [![HTML](https://img.shields.io/badge/-HTML-grey?style=plastic&logo=HTML)](https://www.mysql.com/)
 [![CSS](https://img.shields.io/badge/-CSS-grey?style=plastic&logo=CSS)](https://www.mysql.com/)
 
-### 🌱 I’m currently learning:    [![ISTQB](https://img.shields.io/badge/-ISTQB syllabus-grey?style=plastic&logo=ISTQB syllabus)](https://www.istqb.org/)
+### 🌱 I’m currently learning:    [![ISTQB](https://img.shields.io/badge/-ISTQB_syllabus-grey?style=plastic&logo=ISTQB_syllabus)](https://www.istqb.org/)
 
 
 ### 📫 How to reach me: 
