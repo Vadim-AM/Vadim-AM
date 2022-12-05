@@ -16,7 +16,7 @@
 [![HTML](https://img.shields.io/badge/-HTML-grey?style=plastic&logo=HTML)](https://www.mysql.com/)
 [![CSS](https://img.shields.io/badge/-CSS-grey?style=plastic&logo=CSS)](https://www.mysql.com/)
 
-### 🌱 I’m currently learning:    [![Robot Framework](https://img.shields.io/badge/-robot_framework-grey?style=plastic&logo=robot_framework)](https://robotframework.org/)
+### 🌱 I’m currently learning:    [![Robot Framework](https://img.shields.io/badge/-robot_framework-blue?style=plastic&logo=robotframework)](https://robotframework.org/)
 
 
 ### 📫 How to reach me: 
