@@ -1,5 +1,5 @@
 ![Header](https://github.com/Vadim-AM/Vadim-AM/blob/main/linkedin-16.jpg)
-## Hi! I am a beginner Python QA Automation Engineer
+## Hi! I am a Python QA Automation Engineer
 
 ### Languages and tools:
 [![Python](https://img.shields.io/badge/-Python-grey?style=plastic&logo=python)](https://www.python.org/)
@@ -16,7 +16,7 @@
 [![HTML](https://img.shields.io/badge/-HTML-grey?style=plastic&logo=HTML)](https://www.mysql.com/)
 [![CSS](https://img.shields.io/badge/-CSS-grey?style=plastic&logo=CSS)](https://www.mysql.com/)
 
-### 🌱 I’m currently learning:    [![Robot Framework](https://img.shields.io/badge/-robot_framework-blue?style=plastic&logo=robotframework)](https://robotframework.org/)
+### 🌱 I’m currently learning:    [![yptest-bdd](https://img.shields.io/badge/-pytest_bdd-blue?style=plastic&logo=pytest-bdd)](https://github.com/pytest-dev/pytest-bdd)
 
 
 ### 📫 How to reach me: 
