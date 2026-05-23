@@ -39,4 +39,4 @@ Senior maintainer. 780+ tests, multi-stand deployment. Introduced parallel execu
 
 ### Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%D0%B2%D0%B0%D0%B4%D0%B8%D0%BC-%D0%BC%D0%B0%D0%BA%D0%B0%D1%80%D0%BE%D0%B2-b12009240/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vadim-am/)
